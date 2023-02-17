@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m @AloCarDasli</h1>
 - 👨‍💻 I’m a Fivem Developer ...
 - 🎮 I’m Currently Working On a Fivem Server .
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AloCarDasli&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AloCarDasli&theme=algolia&show_icons=true)
 <!---
