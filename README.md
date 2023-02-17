@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
 <h1 align="center">👋 Hi, I’m @AloCarDasli</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AloCarDasli&label=Total%20Profile%20views&color=808080&style=flat" alt="naornc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AloCarDasli&label=Total%20Profile%20views&color=808080&style=flat" alt="naornc" /> </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AloCarDasli&theme=algolia&show_icons=true)
 <!---
