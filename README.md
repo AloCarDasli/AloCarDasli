@@ -3,7 +3,7 @@
 - 👨‍💻 I’m a Fivem Developer ...
 - 🎮 I’m Currently Working On a Fivem Server .
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AloCarDasli&theme=onedark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AloCarDasli&theme=algolia&show_icons=true)
 <!---
 AloCarDasli/AloCarDasli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
